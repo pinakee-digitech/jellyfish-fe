@@ -7,6 +7,8 @@
 
 .defaultFont {
   font-family: "Ubuntu", sans-serif;
+}
+.loginScreenBackgroundImg{
   background-image: url(./assets/loginPageBg-image.png);
   background-repeat: no-repeat;
   background-size: contain;
